@@ -1,6 +1,6 @@
 # Google Play Store Apps & Reviews - Exploratory Data Analysis
 
-Mobile apps are a huge part of everyday life, and understanding what drives their ratings and user feedback can be valuable for both developers and businesses. This project explores Google Play Store data to discover patterns in app characteristics and user reviews, with a focus on sentiment analysis of ratings and reviews.
+This project explores Google Play Store data to discover patterns in app characteristics and user reviews.
 
 ## Datasets
 
@@ -32,5 +32,5 @@ Mobile apps are a huge part of everyday life, and understanding what drives thei
 
 ## Tools Used
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
